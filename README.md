@@ -13,5 +13,5 @@ Build simple pipeline connect data from my computer to the Azure cloud in order 
 
 ## Environment Setup
 
-## meaningful 
+## Meaningful 
 In the context of data engineering, a "pipeline" refers to a set of processes and tools that work together to move and transform data from one location to another, with the goal of making it usable for analysis, reporting, and other purposes. Data pipelines are a fundamental component of data infrastructure in many organizations.
