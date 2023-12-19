@@ -1,4 +1,4 @@
-# Build simple pipeline realtime with Azure data engineer project.
+# Build pipeline realtime with Azure data engineer project.
 
 ![OIG](https://github.com/huytrao/build-simple-pipeline-realtime-with-Azure-data-engineer-project/assets/121539558/e44c24fb-efbb-48dd-b3d4-87795bd8c6d1)
 
